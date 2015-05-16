@@ -1,6 +1,6 @@
 {
   "name": "deep-modes",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Generic modes (roles, environment, ...) management for javascript app.",
   "main": "index.js",
   "scripts": {
