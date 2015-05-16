@@ -24,5 +24,10 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "deep-promise": ">=1.0.0",
+    "deep-utils": ">=1.0.0"
+  }
 }
+
